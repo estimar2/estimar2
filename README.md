@@ -5,11 +5,7 @@
 
 ## Stack
 
-<img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=for-the-badge"  />
-<img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=for-the-badge"  />
-<img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge"  />
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-NodeJS-339933?logo=Node.js&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=for-the-badge"  /><img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=for-the-badge"  /><img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge"  /><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" /><img src="https://img.shields.io/badge/-NodeJS-339933?logo=Node.js&logoColor=white&style=for-the-badge" />
 
 <!--
 **estimar2/estimar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
