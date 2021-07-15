@@ -1,11 +1,15 @@
-### Song
+# Song
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=estimar2)](https://github.com/estimar2)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estimar2)](https://github.com/estimar2)
 
-## Tech Stack
+## Stack
 
-![React](https://img.shields.io/badge/React-5F00FF) ![Nodejs](https://img.shields.io/badge/Nodejs-43853d) ![javascript](https://img.shields.io/badge/Javascript-FFE400)
+<img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=for-the-badge"  />
+<img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=for-the-badge"  />
+<img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge"  />
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-NodeJS-339933?logo=Node.js&logoColor=white&style=for-the-badge" />
 
 <!--
 **estimar2/estimar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
